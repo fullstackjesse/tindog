@@ -1,0 +1,9 @@
+# Site settings
+title: Jesse Hill TinDog
+author:
+  name: Jesse Hill
+  email: fullstackjh@gmail.com
+description: "tindog"
+
+# Build settings
+remote_theme: jekyll/minima
